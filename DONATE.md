@@ -1,17 +1,40 @@
 # ❤️ Donate
 
-Want to support the project? You can make a donation using these crypto addresses:
+Want to support this project? You can donate using the methods below.
 
-<a href="#ton" alt="Toncoin"><img src="https://img.shields.io/badge/Donate-Toncoin-0098EA?logo=ton" /></a>
-<a href="#usdt" alt="USDT"><img src="https://img.shields.io/badge/Donate-USDT-26A17B?logo=tether" /></a>
+<a href="#upi"><img src="https://img.shields.io/badge/Donate-UPI-orange" /></a>
+<a href="#ton"><img src="https://img.shields.io/badge/Donate-Toncoin-0098EA?logo=ton" /></a>
+<a href="#usdt"><img src="https://img.shields.io/badge/Donate-USDT-26A17B?logo=tether" /></a>
 
-## TON
+---
 
-Address (TON): `UQAAPTagY3Y9XWJc9IMYGFYdVHugoBV_Xa3OjdsBHax69eYg`
+## UPI
 
-## USDT
+UPI ID: `reehalrohit@okicici`
 
-Address (TRC-20): `TK8hMh24yGZGUAYwuSf8rRXncm6s9LJmAx`
+Direct Link:
 
+```text id="82u2x2"
+upi://pay?pa=reehalrohit@okicici&pn=Rohit&cu=INR
 
-If you make a contribution, please text me in [Telegram](https://t.me/Amir_Ai), so I can thank you personally. Thank you for your support!
+---
+
+TON
+
+Address:
+
+UQAAPTagY3Y9XWJc9IMYGFYdVHugoBV_Xa3OjdsBHax69eYg
+
+---
+
+USDT (TRC-20)
+
+Address:
+
+TK8hMh24yGZGUAYwuSf8rRXncm6s9LJmAx
+
+---
+
+If you contribute and would like acknowledgement, feel free to contact me on Telegram.
+
+Telegram: "https://t.me/modzone01"
