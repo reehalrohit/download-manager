@@ -27,14 +27,14 @@ fun Project.getAppName(): String {
 }
 
 fun Project.getPrettifiedAppName(): String {
-    return "AB Download Manager"
+    return "com.reehalrohit.downloadmanager"
 }
 fun Project.getAppDataDirName(): String {
-    return ".abdm"
+    return ".rrdm"
 }
 
 fun Project.getApplicationPackageName(): String {
-    return "com.abdownloadmanager"
+    return "com.reehalrohit.downloadmanager"
 }
 
 private fun guessTargetFormatBasedOnCurrentOs()= when (Platform.getCurrentPlatform()) {
