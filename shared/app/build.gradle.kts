@@ -69,14 +69,14 @@ kotlin {
 
 android {
     compileSdk = 36
-    namespace = "com.abdownloadmanager.shared"
+    namespace = "com.reehalrohit.downloadmanager.shared"
     defaultConfig {
         minSdk = 26
     }
 }
 // generate a file with these constants
 buildConfig {
-    packageName = "com.abdownloadmanager.shared"
+    packageName = "com.reehalrohit.downloadmanager.shared"
     buildConfigField(
         "PACKAGE_NAME",
         provider {
@@ -102,61 +102,61 @@ buildConfig {
     buildConfigField(
         "PROJECT_WEBSITE",
         provider {
-            "https://abdownloadmanager.com"
+            "https://https://github.com/reehalrohit/download-manager"
         }
     )
     buildConfigField(
         "PROJECT_SOURCE_CODE",
         provider {
-            "https://github.com/amir1376/ab-download-manager"
+            "https://github.com/reehalrohit/download-manager"
         }
     )
     buildConfigField(
         "DONATE_LINK",
         provider {
-            "https://github.com/amir1376/ab-download-manager/blob/master/DONATE.md"
+            ""upi://pay?pa=reehalrohit@okicici&pn=Rohit&cu=INR""
         }
     )
     buildConfigField(
         "PROJECT_GITHUB_OWNER",
         provider {
-            "amir1376"
+            "reehalrohit"
         }
     )
     buildConfigField(
         "PROJECT_GITHUB_REPO",
         provider {
-            "ab-download-manager"
+            "https://github.com/reehalrohit/download-manager"
         }
     )
     buildConfigField(
         "PROJECT_TRANSLATIONS",
         provider {
-            "https://crowdin.com/project/ab-download-manager"
+            "https://github.com/reehalrohit/download-manager"
         }
     )
     buildConfigField(
         "INTEGRATION_CHROME_LINK",
         provider {
-            "https://chromewebstore.google.com/detail/ab-download-manager-brows/bbobopahenonfdgjgaleledndnnfhooj"
+            ""
         }
     )
     buildConfigField(
         "INTEGRATION_FIREFOX_LINK",
         provider {
-            "https://addons.mozilla.org/en-US/firefox/addon/ab-download-manager/"
+            ""
         }
     )
     buildConfigField(
         "TELEGRAM_GROUP",
         provider {
-            "https://t.me/abdownloadmanager_discussion"
+            "https://t.me/modzone01"
         }
     )
     buildConfigField(
         "TELEGRAM_CHANNEL",
         provider {
-            "https://t.me/abdownloadmanager"
+            "https://t.me/modzone01"
         }
     )
 }
