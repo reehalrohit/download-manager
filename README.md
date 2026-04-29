@@ -96,14 +96,6 @@ Donate
 
 Support development:
 
-UPI: "reehalrohit@okicici"
+UPI: `reehalrohit@okicici`
 
-or use:
-
-upi://pay?pa=reehalrohit@okicici&pn=Rohit&cu=INR
-
----
-
-License
-
-Please refer to the repository license file.
+[Donate via UPI](upi://pay?pa=reehalrohit@okicici&pn=Rohit&cu=INR)
