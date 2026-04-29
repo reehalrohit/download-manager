@@ -32,7 +32,7 @@ android {
         versionName = getAppVersionString()
     }
     compileSdk = 36
-    namespace = "com.abdownloadmanager.android"
+    namespace = "com.reehalrohit.downloadmanager"
     buildTypes {
         debug {
             applicationIdSuffix = ".debug"
